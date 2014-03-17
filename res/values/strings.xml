@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resume</string>
+    <string name="title_main">Gary Yoong\'s Resume</string>
+    <string name="title_skills">Skills &amp; Qualifications</string>
+    <string name="title_education">Education</string>
+    <string name="title_contact_me">Contact Me</string>
+    <string name="title_work_experience">Work Experience</string>
+
+</resources>
